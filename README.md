@@ -20,4 +20,4 @@ C++ code: 145,623,094 clocks
 The AVX512 code is roughly 16 times as fast.
 
 # Note
-The code in this project must be run on a computer that supports AVX512 Foundation (AVX512F) instructions, or with software that simulates these isntructions. 
+The code in this project must be run on a computer that supports AVX512 Foundation (AVX512F) instructions, or with software that simulates these instructions. 
